@@ -1,3 +1,4 @@
 # ample-admin-lite
 
-### dashboard.html
+### dashboard
+
